@@ -26,7 +26,7 @@ Dalla propria pagina principale è possibile, selezionando la tipologia di utenz
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
 
 - Dati relativi alle **parti:**
-	- *Istatnza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
+	- *Istanza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
 .. figure:: /media/altro_recapito.png
