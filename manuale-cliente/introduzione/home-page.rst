@@ -11,14 +11,3 @@ Oltre ai pulsanti sono presenti le seguenti 3 liste:
 - Procedimenti in delega in corso
 
 Per maggiori dettagli verdere le sezioni relative.
-
-.. toctree::
-  :maxdepth: 3
-  :hidden:
-  :caption: Home page
-
-  home-page/.rst
-  menu/ug.rst
-  menu/gu14.rst
-  menu/gu5.rst
-  menu/lista-procedimenti.rst
