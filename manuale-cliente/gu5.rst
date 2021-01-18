@@ -1,7 +1,7 @@
 Inserimento istanza di provvedimento temporaneo (modello GU5)
 =============================================================
 
-L'istanza per l'emissione del provvedimento temporaneo, nel caso in cui sia in corso in ConciliaWeb la relativa conciliazione o definizione, andra presentata tramite l'apposito pulsante presente nella barra delle azioni della conciliazione o definizione in corso.
+L'istanza per l'emissione del provvedimento temporaneo, nel caso in cui sia in corso in ConciliaWeb la relativa conciliazione o definizione, andrà presentata tramite l'apposito pulsante presente nella barra delle azioni della conciliazione o definizione in corso.
 
 .. figure:: /media/barra_azioni_provvedimento.png
    :align: center
