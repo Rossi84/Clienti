@@ -8,9 +8,7 @@ Sono presenti i possibili link per l'inserimento di un'istanza di conciliazione,
 Oltre ai pulsanti sono presenti le seguenti 3 liste:
 
 - Procedimenti definizioni/conciliazioni) in corso.
-
 - Procedimenti (provvedimenti temporanei ) in corso.
-
 - Procedimenti in delega in corso.
 
 Per maggiori dettagli verdere le sezioni relative.

@@ -22,6 +22,7 @@ Nel caso in cui la conciliazione non sia in corso in ConciliaWeb, dalla propria 
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
 
 - Dati relativi alle **parti**:
+
 	- *Istatnza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
@@ -33,9 +34,11 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
    Recapito istante
 	
 - Dati relativi al **disservizio**:
+
 	- *Tipo di contratto*: privato o affari
 	- *Disservizio riscontrato*: possono essere inseriti più disservizi anche più di uno dello stesso tipo se il disservizio riguarda più di un numero di utenza. Per inserire un disservizio fare click su "CLICCA QUI PER SELEZIONARE I DESSERVIZI". I disservizi presentati dipendono dal tipo di servizio selezionato.
 		Per ogni disservizio dovranno essere associate le relative informazioni:
+
 		- data inizio, data richiesta o data fine del disservizio o periodo di disservizio dove applicabile. Se il disservizio è ancora presente allora selezionare il flag "non risolto".
 		- oggetto della controversia: Voce, Dati, Voce e Dati, Pay TV, servizi accessori, servizi a sovrapprezzo.
 		- numero utenza: telefono o cellulare interessato.
@@ -55,6 +58,7 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Informazioni aggiuntive*: campo non obbligatorio, da compilare se si vogliono aggiungere dettagli su quanto si vuole conciliare.
 
 - Dati relativi alla **procedura pendente**: questa sezione sarà compilata automaticamente se la procedura è pendente nel sistema e l'inserimento del provvedimento avviene tramite l'apposito pulsante presente nel dettaglio del procedimento pendente. Altrimenti sarà richiesta la compilazione dei seguenti campi:
+
 	- *Data presentazione istanza*
 	- *Organismo*
 	- *Identificativo istanza*

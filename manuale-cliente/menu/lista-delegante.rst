@@ -18,6 +18,7 @@ Per dare la gestione di un proprio procedimento in delega è necessario premere 
    Richiesta delega per un procedimento
 
 Il procedimento può essere delegato a:
+
 - *Persona fisica*: inserendo il codice fiscale della persona da delegare registrata in ConciliaWeb.
 - *Associazione*: inserendo la denominazione dell'associazione prescelta.
 - *Avvocato*: inserendo il codice fiscale dell'avvocato accreditato in ConciliaWeb.

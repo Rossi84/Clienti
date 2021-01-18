@@ -2,6 +2,7 @@ Inserimento istanza di conciliazione (Modello UG)
 =================================================
 
 In base ai disservizi selezionati e agli operatori coinvolti l'istanza di conciliazione potrà seguire tre distinti iter:
+
 - Andare in negoziazione diretta con l'operatore e se non si è raggiunto l'accordo in tale fase passare alla conciliazione semplificata.
 - Andare in negoziazione diretta con l'operatore e se non si è raggiunto l'accordo in tale fase passare alla convocazione dell'udienza.
 - Andare direttamente in cociliazione in udienza.
@@ -26,6 +27,7 @@ Dalla propria pagina principale è possibile, selezionando la tipologia di utenz
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.
 
 - Dati relativi alle **parti:**
+
 	- *Istanza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
@@ -37,9 +39,11 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
    Recapito istante
 	
 - Dati relativi alla **controversia**:
+
 	- *Tipo di contratto*: privato o affari
 	- *Disservizio riscontrato*: possono essere inseriti più disservizi anche più di uno dello stesso tipo se il disservizio riguarda più di un numero di utenza. Per inserire un disservizio fare click su "CLICCA QUI PER SELEZIONARE I DESSERVIZI". I disservizi presentati dipendono dal tipo di servizio selezionato.
 		Per ogni disservizio dovranno essere associate le relative informazioni:
+
 		- data inizio, data richiesta o data fine del disservizio o periodo di disservizio dove applicabile. Se il disservizio è ancora presente allora selezionare il flag "non risolto".
 		- oggetto della controversia: Voce, Dati, Voce e Dati, Pay TV, servizi accessori, servizi a sovrapprezzo.
 		- numero utenza: telefono o cellulare interessato.
@@ -59,15 +63,19 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Informazioni aggiuntive*: campo non obbligatorio, da compilare se si vogliono aggiungere dettagli su quanto si vuole conciliare.
 
 - Dati relativi ai **precedenti**:
+
 	- *Precedenti reclami presentati all'operatore*: per ogni reclamo i seguenti dati
+
 		- data presentazione.
 		- modalità di presentazione: posta, fax, ecc.
 		- codice identificativo reclamo: se disponibile oppure
 		- copia della comunicazione: file pdf della comunicazione del reclamo.
 		- pulsante "Elimina": per rimuovere il reclamo inserito.
+
 	- Selezione per dichiarare che *non si sono già esperite altre conciliazioni* per i disservizi segnalati.
 		
 - Dati relativi alle **richieste**:
+
 	- *Descrizione richiesta*: campo testuale, da utilizzare per richieste diverse da quelle relative a pretese economiche.
 	- *Valore in euro del rimborso, dell'indennizzo e/o storno globale richiesto*.
 	- *Modalità per eventuali rimborsi o indennizzi*: obbligatorio se specificato il valore in euro.

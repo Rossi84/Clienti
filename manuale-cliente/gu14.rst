@@ -24,6 +24,7 @@ Nel caso in cui la conciliazione non sia stata esperita tramite ConciliaWeb, dal
 Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare. Nel caso in cui l'avvio sia scaturito dalla conciliazione presente in ConciliaWeb parte dei dei dati saranno già presenti.
 
 - Dati relativi alle **parti**:
+
 	- *Istatnza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
 	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
 	
@@ -35,9 +36,11 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
    Recapito istante
 	
 - Dati relativi alla **controversia**:
+	
 	- *Tipo di contratto*: privato o affari
 	- *Disservizio riscontrato*: possono essere inseriti più disservizi anche più di uno dello stesso tipo se il disservizio riguarda più di un numero di utenza. Per inserire un disservizio fare click su "CLICCA QUI PER SELEZIONARE I DESSERVIZI". I disservizi presentati dipendono dal tipo di servizio selezionato.
 		Per ogni disservizio dovranno essere associate le relative informazioni:
+		
 		- data inizio, data richiesta o data fine del disservizio o periodo di disservizio dove applicabile. Se il disservizio è ancora presente allora selezionare il flag "non risolto".
 		- oggetto della controversia: Voce, Dati, Voce e Dati, Pay TV, servizi accessori, servizi a sovrapprezzo.
 		- numero utenza: telefono o cellulare interessato.
@@ -57,20 +60,26 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 	- *Informazioni aggiuntive*: campo non obbligatorio, da compilare se si vogliono aggiungere dettagli su quanto si vuole conciliare.
 
 - Dati relativi ai **precedenti**:
+	
 	- *Precedenti reclami presentati all'operatore*: per ogni reclamo i seguenti dati
+		
 		- data presentazione.
 		- modalità di presentazione: posta, fax, ecc.
 		- codice identificativo reclamo: se disponibile oppure
 		- copia della comunicazione: file pdf della comunicazione del reclamo.
 		- pulsante "Elimina": per rimuovere il reclamo inserito.
+
 	- *Tentativi di conciliazione*: obbligatorio almeno un tentativo di conciliazione. Da inserire:
+
 		- data presentazione.
 		- organismo: Corecom, Commissione, ecc.
 		- numero protocollo del verbale.
 		- verbale: allegare copia del verbale se si possiede una copia.
+
 	- Selezione per dichiarare che *non si sono già esperite altre conciliazioni* per i disservizi segnalati.
 
 - Dati relativi alle **richieste**:
+
 	- *Descrizione richiesta*: campo testuale, da utilizzare per richieste diverse da quelle relative a pretese economiche.
 	- *Valore in euro del rimborso, dell'indennizzo e/o storno globale richiesto*.
 	- *Modalità per eventuali rimborsi o indennizzi*: obbligatorio se specificato il valore in euro.
