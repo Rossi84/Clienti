@@ -1,7 +1,7 @@
 Recupero password
 =================
 
-.. nota::
+.. important::
 
 	Tale procedura è riferita ai soli utenti che NON accedono con SPID (registrati quindi prima del 01/02/2021).
 
