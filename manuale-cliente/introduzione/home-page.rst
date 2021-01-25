@@ -12,3 +12,10 @@ Oltre ai pulsanti sono presenti le seguenti 3 liste:
 - Procedimenti in delega in corso.
 
 Per maggiori dettagli verdere le sezioni relative.
+
+.. figure:: /media/homepage_cliente.png
+   :align: center
+   :name: homepage-cliente
+   :alt: Homepage
+
+   Homepage

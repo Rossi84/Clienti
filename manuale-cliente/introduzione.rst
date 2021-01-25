@@ -8,8 +8,7 @@ Questo capitolo descrive le funzionalità base messe a disposizione per il clien
   :hidden:
   :caption: Introduzione
 
-  introduzione/registrazione.rst
-  introduzione/login.rst
+  introduzione/registrazione-login.rst
   introduzione/recupero-password.rst
   introduzione/logout.rst
   introduzione/profilo.rst
