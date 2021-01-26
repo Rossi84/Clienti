@@ -1,8 +1,7 @@
 Registrazione e login
 =====================
 
-Per usufruire dei servizi di ConciliaWeb è necessario accedere con SPID (intestato a perona fisica) o Carta d'identità elettronica (CIE). Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, Associazione, ecc.), il soggetto che la rappresenta è tenuto a registrarsi prima come persona fisica.
-
+Per usufruire dei servizi di ConciliaWeb è necessario accedere con SPID o Carta d'identità elettronica (CIE). Per completare la registrazione, al primo accesso saranno richiesti alcuni dati aggiuntivi: contatti, residenza e i dati di eventuali aziende nel caso in cui l'utenza sia intestata a una persona giuridica (in questo caso è necessario registrarsi con l'account SPID o CIE del rappresentante legale).
 
 .. figure:: /media/link_registrati.png
    :align: center
@@ -10,8 +9,6 @@ Per usufruire dei servizi di ConciliaWeb è necessario accedere con SPID (intest
    :alt: Link registrazione
 
    Link per la registrazione
-
-Al primo accesso saranno richieste alcune informazioni aggiuntive ed eventuali dati di aziende in caso la persona ne sia rapprentante legale.
 
 - *Dati di accesso*: specificare i recapiti di contatto che saranno usati per le notifiche.
 
@@ -40,7 +37,7 @@ Al primo accesso saranno richieste alcune informazioni aggiuntive ed eventuali d
 
    Registrazione - Aziende
 
-Per ogni eventuale azienda per cui è referente e ha intenzione di aprire qualche istanza avendone i requisiti, fare click su "Aggiungi Azienda" nella sezione "Aziende". Tale operazione può essere effettuata anche successivamente.
+Cliccare su "AGGIUNGI AZIENDA" nella sezione Aziende, nel caso in cui l’utente sia il rappresentante legale. 
 
 .. figure:: /media/registrazione_azienda.png
    :align: center
@@ -58,4 +55,6 @@ Per ogni eventuale azienda per cui è referente e ha intenzione di aprire qualch
 
    Registrazione - Firma
 
-Una volta inseriti tutti i dati obbligatori sarà possibile inviare il modulo.
+
+Per concludere la registrazione e accedere alla homepage cliccare sul tasto "SALVA e INVIA" (richiede almeno l’inserimento dei dati obbligatori).
+
