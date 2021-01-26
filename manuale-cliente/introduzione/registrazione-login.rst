@@ -1,7 +1,7 @@
 Registrazione e login
 =====================
 
-Per usufruire dei servizi di ConciliaWeb è necessario accedere con SPID (intestato a perona fisica) o CIE. Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, Associazione, ecc.), il soggetto che la rappresenta è tenuto a registrarsi prima come persona fisica.
+Per usufruire dei servizi di ConciliaWeb è necessario accedere con SPID (intestato a perona fisica) o Carta d'identità elettronica (CIE). Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, Associazione, ecc.), il soggetto che la rappresenta è tenuto a registrarsi prima come persona fisica.
 
 
 .. figure:: /media/link_registrati.png
