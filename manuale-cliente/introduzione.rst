@@ -1,7 +1,7 @@
 Introduzione
 ============
 
-Questo capitolo descrive le funzionalità base messe a disposizione per il cliente.
+Questo capitolo descrive le azioni propedeutiche all'espletamento delle procedure.
 
 .. toctree::
   :maxdepth: 3

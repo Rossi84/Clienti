@@ -1,11 +1,5 @@
 Assistenza
 ==========
 
-Dalla pagina di inziale è possibile accedere alla sezione per le richieste di assistenza, premendo su "Hai biogno di aiuto?".
-
- .. figure:: /media/login.png
-   :align: center
-   :name: login
-   :alt: Login - Assistenza
-
-In questa sezione sono presenti la lista dell FAQ e una maschera per l'invio di una richiesta di assistenza qualora non si trovi una risposta nelle FAQ al proprio problema.
+Si consiglia la consultazione della sezione F.A.Q prima di richiedere assistenza. Qualora il problema non fosse risolto, l’utente può rivolgersi al Contact Center dell'Autorità oppure aprire un ticket mediante la `Pagina di assistenza < https://conciliaweb.agcom.it/conciliaweb/contatti/assistenza.htm>`_ . 
+Il Contact Center dell'Autorità è raggiungibile dal lunedì al venerdì, dalle 10:00 alle 14:00 al numero verde 800.185060 da telefono fisso oppure al numero 081.750750 da cellulare e dall'estero.

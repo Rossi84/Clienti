@@ -38,7 +38,7 @@ Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, fondazi
 
    Registrazione - Aziende
 
-Cliccare su "AGGIUNGI AZIENDA" nella sezione Aziende, nel caso in cui l’utente sia il rappresentante legale. 
+Cliccare su **AGGIUNGI AZIENDA** nella sezione Aziende, nel caso in cui l’utente sia il rappresentante legale. 
 
 .. figure:: /media/registrazione_azienda.png
    :align: center
@@ -57,5 +57,5 @@ Cliccare su "AGGIUNGI AZIENDA" nella sezione Aziende, nel caso in cui l’utente
    Registrazione - Firma
 
 
-Per concludere la registrazione e accedere alla homepage cliccare sul tasto "SALVA e INVIA" (richiede almeno l’inserimento dei dati obbligatori).
+Per concludere la registrazione e accedere alla homepage cliccare sul tasto **SALVA e INVIA** (richiede almeno l’inserimento dei dati obbligatori).
 

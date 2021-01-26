@@ -1,7 +1,7 @@
 Profilo
 =======
 
-Per visualizzare e modificare le informazioni del proprio profilo cliccare in alto a destra sul proprio nome e poi cliccare "Profilo".
+Per visualizzare e modificare le informazioni del proprio profilo, cliccare in alto a destra sul proprio nome e poi sul pulsante **PROFILO**.
 
 .. figure:: /media/profilo.png
    :align: center
@@ -10,7 +10,7 @@ Per visualizzare e modificare le informazioni del proprio profilo cliccare in al
 
    Profilo
 
-Da qui è possibile modificare i valori inseriti al momento della prima registrazione.
+Da qui è possibile modificare i dati inseriti in fase di registrazione.
 
 .. figure:: /media/profilo_dati.png
    :align: center

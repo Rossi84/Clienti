@@ -1,9 +1,7 @@
 Profilo aziendale
 =================
 
-In alto a sinistra (sopra il menu) è possibile scegliere per conto di chi si vuole operare.
-
-Quindi con un click in tale icona, si può scegliere la gestione delle istanze inserite o da inserire per conto proprio (persona fisica) o come rappresentante dell'azienda selezionata.
+Qualora siano state aggiunte delle aziende, il rappresentante legale ha la facoltà di scegliere il profilo aziendale con cui operare oppure di agire come persona fisica. La selezione del profilo si avviene mediante il menù predisposto in alto a sinistra. La scelta di un profilo comporta la visualizzazione e la gestione delle istanze associate al profilo selezionato.
 
 .. figure:: /media/selezione_azienda.png
    :align: center
