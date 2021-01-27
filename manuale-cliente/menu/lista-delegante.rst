@@ -1,18 +1,16 @@
 Procedimenti che hai delegato
 =============================
 
-E' possibile delegare la gestione di un procedimento ad altro soggetto accreditato (avvocato o associazione dei consumatori) oppure persona fisica (delegato). 
+Un utente registrato può delegare un procedimento direttamente tramite ConciliaWeb ad un **avvocato accreditato** oppure ad un **utente registrato(delegato)**. Viceversa, se il cittadino che vuole essere rappresentato non è registrato, può rivolgersi ad **un'associazione dei consumatori accreditata** oppure ad **un avvocato accreditato**. In questo caso, per ogni istanza da inserire in Conciliaweb, il soggetto accreditato chiederà la sottoscrizione di un mandato secondo il format prestabilito dall’Autorità.
+
 In questa sezione viene mostrata la lista dei procedimenti che sono stati delegati e la lista di richieste inviate ad altri soggetti.
+
 
 Delega di un procedimento
 ~~~~~~~~~~~~~~~~~~~~~~~~~
-Un procedimento può essere delegato a:
 
-- *Persona fisica*: inserendo il codice fiscale della persona da delegare registrata in ConciliaWeb.
-- *Avvocato*: inserendo il codice fiscale dell'avvocato accreditato in ConciliaWeb.
-- * Associazione dei consumatori*: in questo caso il cittadino deve recarsi presso la sede dell’associazione o comunque contattare personalmente gli addetti per essere assistito. Per ogni istanza deve rilasciato un mandato, compilato secondo il format prestabilito dall’Autorità.
-
-Per dare la gestione di un proprio procedimento in delega è necessario premere l'apposita icona:
+Questa funzionalità prevede che l'utente registrato inserisca autonomamente l'istanza.
+La gestione di un procedimento in delega avviene attraverso l'apposita icona:
 
 .. figure:: /media/richiesta_delega.png
    :align: center
@@ -28,7 +26,8 @@ Per dare la gestione di un proprio procedimento in delega è necessario premere 
    
    Selezione soggetto da delegare
 
-L’utente dovrà inserire il codice fiscale del soggetto che intende delegare e cliccare su **SALVA** per inviare una richiesta. Il soggetto riceva la richiesta e può accettare inserendo il codice one time password (OTP) ricevuto via SMS o email oppure rifiutare.  La delega sarà effettiva solo dopo l’accettazione dell’interessato, fino a quel momento la gestione rimane all'utente.
+L’utente dovrà inserire il codice fiscale del soggetto a cui intende delagare la gestione del procedimento e cliccare su **SALVA**. Il soggetto può accettare la richiesta inserendo il codice one time password (OTP) ricevuto via SMS o email oppure rifiutare. 
+
 
 Dalla lista "Richieste di accettazione delega inviate" è possibile rimuovere la richiesta di delega.
 
