@@ -11,7 +11,7 @@ Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, fondazi
 
    Link per la registrazione
 
-- *Dati di accesso*: specificare i recapiti di contatto che saranno usati per le notifiche.
+*Dati di accesso*: specificare i recapiti di contatto che saranno usati per le notifiche.
 
 .. figure:: /media/registrazione_dati.png
    :align: center
@@ -20,7 +20,7 @@ Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, fondazi
 
    Registrazione - Dati di accesso
 
-- *Anagrafica*: indicare i dati di residenza.
+*Anagrafica*: indicare i dati di residenza.
    
 .. figure:: /media/registrazione_anagrafica.png
    :align: center
@@ -29,7 +29,7 @@ Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, fondazi
 
    Registrazione - Anagrafica
 
-- *Aziende*
+*Aziende*
 
 .. figure:: /media/registrazione_aziende.png
    :align: center
@@ -38,7 +38,7 @@ Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, fondazi
 
    Registrazione - Aziende
 
-Cliccare su **AGGIUNGI AZIENDA** nella sezione Aziende, nel caso in cui l’utente sia il rappresentante legale. 
+Cliccare su **AGGIUNGI AZIENDA** nella sezione Aziende, nel caso in cui l'utente sia il rappresentante legale. 
 
 .. figure:: /media/registrazione_azienda.png
    :align: center
@@ -47,7 +47,7 @@ Cliccare su **AGGIUNGI AZIENDA** nella sezione Aziende, nel caso in cui l’uten
    
    Registrazione - Azienda 
 
-- *Invio*
+*Invio*
 
 .. figure:: /media/registrazione_firma.png
    :align: center
@@ -57,5 +57,5 @@ Cliccare su **AGGIUNGI AZIENDA** nella sezione Aziende, nel caso in cui l’uten
    Registrazione - Firma
 
 
-Per concludere la registrazione e accedere alla homepage cliccare sul tasto **SALVA e INVIA** (richiede almeno l’inserimento dei dati obbligatori).
+Per concludere la registrazione e accedere alla homepage cliccare sul tasto **SALVA e INVIA** (richiede almeno l'inserimento dei dati obbligatori).
 
