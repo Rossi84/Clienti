@@ -1,18 +1,14 @@
 Procedimenti per i quali sei delegato
 =====================================
 
-E' possibile ricevere in delga per la sua gestione procedimenti presentati da altri soggetti. 
-
-In qusta sezione viene mostrata la lista dei procedimenti per cui si è delegati alla sua gestione. Per questi procedimenti è possibile agire con le stesse modalità dei procedimenti di cui si è istante.
-
-Viene inoltre mostrata la lista di richieste di deleghe ricevuto, da questa sezione è possibile accettare o rifiutare una richiesta di delga ricevuta.
+E' possibile ricevere in delega la gestione di procedimenti presentati da altri soggetti. In questa sezione viene mostrata la lista dei procedimenti per cui si è delegati.
 
 Accettazione delega
 ~~~~~~~~~~~~~~~~~~~
 
-Dalla lista "Richieste di accettazione delega ricevute" è possibile accettare o rifiuteare una richiesta di delega sollevata da altro soggetto.
+Dalla lista "Richieste di accettazione delega ricevute" è possibile accettare o rifiutare una richiesta di delega inviata da un altro utente.
 
-Per l'accettazine di una richiesta di delga è necessario inserire il codice OPT ricevuto per email o sms.
+Per l'accettazione di una richiesta di delega è necessario inserire il codice OPT ricevuto via email o SMS.
 
 .. figure:: /media/otpaccettazione_delega.png
    :align: center
@@ -24,4 +20,4 @@ Per l'accettazine di una richiesta di delga è necessario inserire il codice OPT
 Rifiuto delega
 ~~~~~~~~~~~~~~
 
-La richiesta di delega ricevuta può essere rifiutata, in questo caso la gestione del procedimento resta all'istante.
+La richiesta di delega ricevuta può essere rifiutata, in questo caso la gestione del procedimento resta all'utente richiedente.
