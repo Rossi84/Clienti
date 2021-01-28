@@ -48,8 +48,8 @@ E' possibile visionare la preview del verbale di accordo premendo il bottone "Pr
    
    Negoziazione diretta - accettazione proposta
 
-Negoziazione semplificata
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Conciliazione semplificata
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Per i procedimenti per cui è prevista, se non si raggiunge l'accordo nella fase di negoziazione diretta, la conciliazione procede con l'aiuto di una terza figura, il conciliatore.
 
