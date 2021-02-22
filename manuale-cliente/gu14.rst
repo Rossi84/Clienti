@@ -98,6 +98,7 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
 
   gu14/fascicolo-documentale.rst
   gu14/rinuncia.rst
+  gu14/variazione-iban.rst
   gu14/provvedimento.rst
   gu14/memoriecontrodeduzioni.rst
   gu14/risposta-richistruttoria.rst

@@ -96,6 +96,7 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
   ug/negoziazione.rst
   ug/rinuncia.rst
   ug/integrazione.rst
+  ug/variazione-iban.rst
   ug/provvedimento.rst
   ug/udienza.rst
   ug/firma.rst	
