@@ -28,7 +28,7 @@ La prima richiesta mostrata è quella inserita in fase di inserimento istanza. L
 
 E' possibile inserire un testo e premere "Invia" per aggiungere una nuova comunicazione. Anche l'operatore potrà inviare dei messaggi e potrà inviare all'istante la proposta di accordo.
 
-Quando l'operatore avrà formulato la proposta di accordo, questa verrà visualizzata e l'istante potrà accettarla o rifiutarla. In caso di rifiuto la negoziazione riprende e il procedeminto avanza nel suo inter.
+Quando l'operatore avrà formulato la proposta di accordo, questa verrà visualizzata e l'istante potrà accettarla o rifiutarla. In caso di rifiuto la negoziazione riprende e il procedimento avanza nel suo inter.
 
 .. figure:: /media/proposta.png
    :align: center

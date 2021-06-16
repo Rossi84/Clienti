@@ -1,7 +1,7 @@
 Procedimenti che hai delegato
 =============================
 
-Un utente registrato può delegare un procedimento tramite ConciliaWeb ad un **avvocato accreditato** oppure ad un **utente registrato(delegato)**. Viceversa, se il cittadino non è registrato in ConciliaWeb, può rivolgersi ad **un'associazione dei consumatori accreditata** oppure ad **un avvocato accreditato**. In questo caso, per ogni procedimento, il soggetto accreditato chiederà la sottoscrizione di un mandato secondo il format prestabilito dall’Autorità.
+Un utente registrato può delegare un procedimento tramite ConciliaWeb ad un **avvocato accreditato** oppure ad un **utente registrato(delegato)**. Viceversa, se il cittadino non è registrato in ConciliaWeb, può rivolgersi ad **un'associazione dei consumatori accreditata** oppure ad **un avvocato accreditato**. In questo caso, per ogni procedimento, il soggetto accreditato chiederà la sottoscrizione di un mandato secondo il format prestabilito dall'Autorità.
 
 In questa sezione viene mostrata la lista dei procedimenti che sono stati delegati e la lista di richieste inviate ad altri soggetti.
 
@@ -20,7 +20,7 @@ La gestione del relativo processo di delega avviene attraverso l'apposita icona:
    Richiesta delega per un procedimento
 
 
-L’utente dovrà inserire il codice fiscale del soggetto a cui intende delagare la gestione dell'istanza e cliccare su **SALVA**. Il destinatario può accettare la richiesta inserendo il codice OTP ricevuto via SMS o email oppure rifiutare. 
+L’utente dovrà inserire il codice fiscale del soggetto a cui intende delegare la gestione dell'istanza e cliccare su **SALVA**. Il destinatario può accettare la richiesta inserendo il codice OTP ricevuto via SMS o email oppure rifiutare. 
 
 .. figure:: /media/selsoggetto_delega.png
    :align: center
