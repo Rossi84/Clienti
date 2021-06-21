@@ -1,5 +1,5 @@
-Procedimenti per i quali sei delegato
-=====================================
+Deleghe a persona fisica o mandati ricevuti
+===========================================
 
 E' possibile ricevere in delega la gestione di procedimenti presentati da altri soggetti. In questa sezione viene mostrata la lista dei procedimenti per cui si è delegati.
 

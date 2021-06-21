@@ -1,5 +1,5 @@
-Procedimenti che hai delegato
-=============================
+Deleghe a persona fisica o mandati inviati
+==========================================
 
 Un utente registrato può delegare un procedimento tramite ConciliaWeb ad un **avvocato accreditato** oppure ad un **utente registrato(delegato)**. Viceversa, se il cittadino non è registrato in ConciliaWeb, può rivolgersi ad **un'associazione dei consumatori accreditata** oppure ad **un avvocato accreditato**. In questo caso, per ogni procedimento, il soggetto accreditato chiederà la sottoscrizione di un mandato secondo il format prestabilito dall'Autorità.
 
