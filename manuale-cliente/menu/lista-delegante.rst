@@ -36,9 +36,9 @@ L'utente dovrà inserire il codice fiscale del soggetto a cui intende delegare l
    
    Selezione soggetto da delegare - persona
 
-Dalla lista "Richieste di accettazione delega inviate" è possibile rimuovere la richiesta di delega.
+Dalla lista "Richieste di accettazione delega o mandato inviate" è possibile rimuovere la richiesta di delega.
 
 Revoca della delega per un procedimento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Se la proposta di delega non è ancora stata accettata dal soggetto delegato è possibile rimuoverla dalla lista "Richieste di accettazione delega inviate".
+Se la proposta di delega non è ancora stata accettata dal soggetto delegato è possibile rimuoverla dalla lista "Richieste di accettazione delega o mandato inviate".
 
