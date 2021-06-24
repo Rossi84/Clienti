@@ -20,14 +20,21 @@ La gestione del relativo processo di delega avviene attraverso l'apposita icona:
    Richiesta delega per un procedimento
 
 
-L’utente dovrà inserire il codice fiscale del soggetto a cui intende delegare la gestione dell'istanza e cliccare su **SALVA**. Il destinatario può accettare la richiesta inserendo il codice OTP ricevuto via SMS o email oppure rifiutare. 
+L'utente dovrà inserire il codice fiscale del soggetto a cui intende delegare la gestione dell'istanza, l'OTP e cliccare su **SALVA**. Il destinatario può accettare la richiesta inserendo il codice OTP ricevuto via SMS o email oppure rifiutare. 
 
-.. figure:: /media/selsoggetto_delega.png
+.. figure:: /media/selsoggetto_delega_avvocato.png
    :align: center
-   :name: selsoggetto-delega
-   :alt: Selezione soggetto da delegare
+   :name: selsoggetto-delega-avvocato
+   :alt: Selezione soggetto da delegare - avvocato
    
-   Selezione soggetto da delegare
+   Selezione soggetto da delegare - avvocato
+
+.. figure:: /media/selsoggetto_delega_pfisica.png
+   :align: center
+   :name: selsoggetto-delega-pfiscia
+   :alt: Selezione soggetto da delegare - persona
+   
+   Selezione soggetto da delegare - persona
 
 Dalla lista "Richieste di accettazione delega inviate" è possibile rimuovere la richiesta di delega.
 
