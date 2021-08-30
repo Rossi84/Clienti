@@ -41,3 +41,26 @@ L'istante dovrà specificare il tipo di documento che sta caricando, un titolo e
    :alt: Fascicolo documentale caricamento testo
    
    Fascicolo documentale - caricamento testo
+
+
+Eliminazione documento caricato
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nel caso venga caricato erroneamente sul fascicolo documentale un documento, è possibile eliminarlo fino a due giorni dopo la chiusura del procedimento. Tale funzione è disponibile solo per l'utente che ha effettuato il caricamento. 
+Per eliminarlo accedere al fascicolo documentale e premere "Elimina documento" in corrispondenza del documento errato.
+
+.. figure:: /media/eliminazione_documento.png
+   :align: center
+   :name: eliminazione-documento
+   :alt: Eliminazione documento
+   
+   Eliminazione documento da fascicolo documentale
+   
+.. figure:: /media/eliminazione_documento_firma.png
+   :align: center
+   :name: eliminazione-documento-firma
+   :alt: Eliminazione documento firma
+   
+   Firma eliminazione documento da fascicolo documentale
+   
+Inserire la motivazione e firmare.
