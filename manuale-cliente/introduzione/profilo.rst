@@ -32,3 +32,26 @@ Da qui è possibile modificare i dati inseriti in fase di registrazione.
    :alt: Modifica profilo aziende
 
    Modifica profilo - Aziende
+
+Eliminazione profilo
+~~~~~~~~~~~~~~~~~~~~
+
+E' possibile eliminare irreversibilmente il proprio profilo dalla sezione "Privacy".
+
+.. figure:: /media/eliminazione_profilo.png
+   :align: center
+   :name: eliminazione-profilo
+   :alt: Eliminazione profilo
+
+   Eliminazione profilo
+
+Per eliminare il proprio profilo premere il pulsante **ELIMINA PROFILO**.
+
+.. figure:: /media/eliminazione_profilo_conferma.png
+   :align: center
+   :name: eliminazione-profilo-conferma
+   :alt: Conferma eliminazione profilo
+
+   Eliminazione profilo - conferma
+
+Premere il pulsante **GENERA OTP**, inserire il codice ricevuto e premere **ACCETTA e INVIA**.
