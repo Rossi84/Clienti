@@ -15,4 +15,6 @@ Per poter accedere al sistema l'utente dovrà registrarsi.
   manuale-cliente/ug.rst
   manuale-cliente/gu14.rst
   manuale-cliente/gu5.rst
+  manuale-cliente/sma.rst
+  manuale-cliente/sma14.rst
   
