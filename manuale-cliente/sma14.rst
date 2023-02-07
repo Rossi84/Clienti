@@ -1,5 +1,5 @@
 Inserimento istanza di definizione SMA (Modello SMA14)
-=================================================
+======================================================
 
 L'istanza di definizione, nel caso in cui sia presente in ConciliaWeb la conciliazione relativa, dovrà essere inserita andando sulla lista dei procedimenti "I miei procedimenti (conciliazioni/definizioni)", e cliccando sull'apposito pulsante presente nella colonna "Azioni" relativa alla conciliazione conclusa con mancato accordo.
 
@@ -14,69 +14,31 @@ L'apertura dell'istanza di definizione è possibile entro i 3 mesi dalla conclus
 
 Nel caso in cui la conciliazione non sia stata esperita tramite ConciliaWeb, dalla propria pagina principale è possibile, selezionando la tipologia di utenza, aprire il modulo per la compilazione dell'istanza di definizione delle controversie.
 
-.. figure:: /media/nuova_definizione.png
+.. figure:: /media/nuova_definizione_sma.png
    :align: center
    :name: nuova-definizione
    :alt: Nuova definizione
 
    Nuova definizione
-   
-Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante è tenuto a compilare. Nel caso in cui l'avvio sia scaturito dalla conciliazione presente in ConciliaWeb parte dei dei dati saranno già presenti.
 
-- Dati relativi alle **parti**:
-
-	- *Istatnza presentata da*: selezionare l'intestatario dell'utenza per la quale si intende presentare istanza, che sia una persona fisica o un'azienda.
-	- *Recapito telefonico*: anche se non obbligatorio, si consiglia di inserire il recapito telefonico se diverso da quanto inserito nel proprio profilo. Tale dato è usato da operatori e/o conciliatori durante la gestione della controversia per eventuali comunicazioni.
+Inserire i dati relativi al reclamo effettuato, verranno così mostrati tutti i campi (obbligatori e non) che l'istante è tenuto a compilare.  Nel caso in cui l'avvio sia scaturito dalla conciliazione presente in ConciliaWeb parte dei dei dati saranno già presenti.
 	
-.. figure:: /media/altro_recapito.png
+.. figure:: /media/sma_reclami.png
    :align: center
-   :name: altro-recapito
-   :alt: Recapito istante
+   :name: reclami
+   :alt: Reclami
    
-   Recapito istante
-	
-- Dati relativi alla **controversia**:
-	
-	- *Tipo di contratto*: privato o affari
-	- *Disservizio riscontrato*: possono essere inseriti più disservizi anche più di uno dello stesso tipo se il disservizio riguarda più di un numero di utenza. Per inserire un disservizio fare click su "CLICCA QUI PER SELEZIONARE I DESSERVIZI". I disservizi presentati dipendono dal tipo di servizio selezionato.
-		Per ogni disservizio dovranno essere associate le relative informazioni:
-		
-		- data inizio, data richiesta o data fine del disservizio o periodo di disservizio dove applicabile. Se il disservizio è ancora presente allora selezionare il flag "non risolto".
-		- oggetto della controversia: Pay TV, servizi accessori, servizi a sovrapprezzo.
-		- numero utenza: telefono o cellulare interessato.
+   Reclami
+
+- Dati relativi ai **disservizi**: per ogni disservizio dovranno essere associate le relative informazioni:
+
+		- data richiesta attivazione, data riscontro o data risoluzione o periodo di disservizio dove applicabile. Se il disservizio è ancora presente allora selezionare il flag "non risolto".
 		- con il tasto "Elimina" si può eliminare uno dei disservizi selezionati.
-		
-.. figure:: /media/disservizio.png
-   :align: center
-   :name: disservizio
-   :alt: Disservizio
-   
-   Disservizio
-   
-	- *Codice cliente o numero del contratto*: obbligatorio quando il disservizio riguarda la Pay-Tv oppure la fornitura di più linee telefoniche fisse in diverse regioni o di più numeri di utenze mobili o di diverso tipo (mobile e fisso), o quando non sono stati specificati i numeri di utenza ma solo il numero di linee interessate dal disservizio.
-	- *Domicilio del contratto*: regione/provincia indicata dall'utente come domicilio contrattuale. In caso di utente fisso va indicato il luogo ove si trova l'utenza. Se non viene specificato sarà considerata la residenza dell'utente.
-	- *Operatore controparte*: selezionare uno tra gli operatori, con possibilità di auto-completamento (specificando l'inizio del nome della società il sistema suggerisce i nomi da selezionare). Gli operatori specificati potranno essere più di uno quando il disservizio riguarda "ritardo nella portabilità del numero" o "ritardo nel passaggio tra operatori". Campo obbligatorio. Se l'operatore controparte non figura tra quelli disponibili va segnalato immediatamente tramite il servizio di Assistenza.
-	- *Informazioni aggiuntive*: campo non obbligatorio, da compilare se si vogliono aggiungere dettagli su quanto si vuole conciliare.
 
-- Dati relativi ai **precedenti**:
+- Dati relativi alla **controversia**:
+        - Operatore/ in controparte: selezionare uno o più fornitori di servizi audiovisivi coinvolti nella controversia.
+		- Informazioni aggiuntive.
 	
-	- *Precedenti reclami presentati all'operatore*: per ogni reclamo i seguenti dati
-		
-		- data presentazione.
-		- modalità di presentazione: posta, fax, ecc.
-		- codice identificativo reclamo: se disponibile oppure
-		- copia della comunicazione: file pdf della comunicazione del reclamo.
-		- pulsante "Elimina": per rimuovere il reclamo inserito.
-
-	- *Tentativi di conciliazione*: obbligatorio almeno un tentativo di conciliazione. Da inserire:
-
-		- data presentazione.
-		- organismo: Corecom, Commissione, ecc.
-		- numero protocollo del verbale.
-		- verbale: allegare copia del verbale se si possiede una copia.
-
-	- Selezione per dichiarare che *non si sono già esperite altre conciliazioni* per i disservizi segnalati.
-
 - Dati relativi alle **richieste**:
 
 	- *Descrizione richiesta*: campo testuale, da utilizzare per richieste diverse da quelle relative a pretese economiche.
@@ -89,6 +51,13 @@ Il modulo d'inserimento contiene tutti i campi (obbligatori e non) che l'istante
 - *Firma*: compilati tutti i campi l'istanza, dovrà essere firmata tramite la generazione di un codice "OTP" che sarà inviato al proprio indirizzo email o dispositivo mobile se specificato. Per ricevere il codice fare click su "Genera OTP".
 		
 Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema invierà una notifica a tutti gli interessati e al cliente stesso di avvenuto inserimento.
+
+.. figure:: /media/sma14_formulario.png
+   :align: center
+   :name: sma-formulario
+   :alt: Formulario
+   
+   Formulario
 
 .. toctree::
   :maxdepth: 3

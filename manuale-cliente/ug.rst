@@ -5,7 +5,7 @@ In base ai disservizi selezionati e agli operatori coinvolti l'istanza di concil
 
 - Andare in negoziazione diretta con l'operatore e se non si è raggiunto l'accordo in tale fase passare alla conciliazione semplificata.
 - Andare in negoziazione diretta con l'operatore e se non si è raggiunto l'accordo in tale fase passare alla convocazione dell'udienza.
-- Andare direttamente in cociliazione in udienza.
+- Andare direttamente in conciliazione in udienza.
 
 In questa sezione saranno illustrate le azioni possibili in funzione dello stato in cui si trova il procedimento.
 
