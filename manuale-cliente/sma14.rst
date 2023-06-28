@@ -1,4 +1,4 @@
-Inserimento istanza di definizione SMA (Modello SMA14)
+Inserimento istanza di definizione SMA (Modello SMA)
 ======================================================
 
 L'istanza di definizione, nel caso in cui sia presente in ConciliaWeb la conciliazione relativa, dovrà essere inserita andando sulla lista dei procedimenti "I miei procedimenti (conciliazioni/definizioni)", e cliccando sull'apposito pulsante presente nella colonna "Azioni" relativa alla conciliazione conclusa con mancato accordo.
