@@ -59,5 +59,4 @@ Con il tasto "Salva e invia" l'istanza sarà inserita e protocollata. Il sistema
   vsp/negoziazione.rst
   vsp/rinuncia.rst
   vsp/integrazione.rst
-  vsp/provvedimento.rst
   vsp/firma.rst	
