@@ -1,6 +1,8 @@
 Profilo
 =======
 
+.. _section-profilo:
+
 Per visualizzare e modificare le informazioni del proprio profilo, cliccare in alto a destra sul proprio nome e poi sul pulsante **PROFILO**.
 
 .. figure:: /media/profilo.png
