@@ -1,11 +1,7 @@
 Registrazione e login
 =====================
 
-.. important::
-
-   L'accesso con eIdas è momentaneamente non disponibile
-
-Per usufruire dei servizi di ConciliaWeb è necessario accedere con `SPID <https://www.spid.gov.it/>`_, `Carta d'identità elettronica (CIE) <https://www.cartaidentita.interno.gov.it/>`_ o `eIDAS <https://www.eid.gov.it/>`_ riferito a persona fisica. L'utente al primo accesso dovrà inserire i dati relativi alla propria residenza e i contatti utilizzati per l'invio delle notifiche. 
+Per usufruire dei servizi di ConciliaWeb è necessario accedere con `SPID <https://www.spid.gov.it/>`_, `Carta d'identità elettronica (CIE) <https://www.cartaidentita.interno.gov.it/>`_, Carta nazionale dei Servizi (CNS) o `eIDAS <https://www.eid.gov.it/>`_ riferito a persona fisica. L'utente al primo accesso dovrà inserire i dati relativi alla propria residenza e i contatti utilizzati per l'invio delle notifiche. 
 Nel caso in cui l'utenza sia intestata a una persona giuridica (Azienda, fondazione, etc) è necessario registrarsi con l'account SPID o CIE del rappresentante legale e aggiungere i dati relativi all'azienda rappresentata nella sezione <<aziende>>.
 
 .. figure:: /media/link_registrati.png

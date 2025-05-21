@@ -9,7 +9,6 @@ Questo capitolo descrive le azioni propedeutiche all'espletamento delle procedur
   :caption: Introduzione
 
   introduzione/registrazione-login.rst
-  introduzione/recupero-password.rst
   introduzione/logout.rst
   introduzione/profilo.rst
   introduzione/profilo-aziendale.rst
