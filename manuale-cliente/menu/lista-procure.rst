@@ -1,19 +1,20 @@
 Richieste di procura
 ====================
 
-Un utente registrato può inserire un'istanza relativa ad azienda di cui ha procura. Per fare ciò dovrà associare al proprio :ref:`profilo <section-profilo>` l'azienda di cui ha procura, :ref:`selezionare l'azienda <section-selazienda>` e procedere all'inserimento dell'istanza. 
+Un utente registrato può inserire un'istanza per conto di un'azienda o soggetto giuridico previa apposita procura da parte del legale rappresentante. Quest'ultimo dovrà accedere al sistema mediante SPID/CIE/CNS per sottoscrivere la procura alla gestione dei singoli procedimenti.
 
-In fase di inserimento istanza, qualora si abbia procura, dovrà essere inserito il codice fiscale del legale rappresentante.
+Il soggetto delegato dovrà creare l'anagrafica dell'azienda dal proprio :ref:`profilo <section-profilo>`, :ref:`selezionare l'azienda <section-selazienda>`, compilare l'istanza ed indicare nell'ultimo BOX il codice fiscale del legale rappresentante del soggetto giuridico che si intende rappresentare.
 
 .. figure:: /media/insistanza_rapplegale.png
    :align: center
    :name: procura-rapplegale
    :alt: Procura rappresentante legale
-   
-   Inserimento codice fiscale rappresentante legale in caso di procura
 
-In questo caso, il procuratore inserisce l'istanza che verrà inviata solo nel momento in cui il rappresentante legale, accedendo alla piattaforma, confermerà la procura conferita. 
+L'istanza verrà trasmessa al legale rappresentante legale, il quale accedendo al sistema con il proprio SPID/CIE/CNS, troverà la richiesta di delega nel menu alla voce Richieste di Procura.
 
-In questa sezione viene mostrata la lista delle richieste di procura inviate qualora sia attivo il profilo aziendale, oppure le richieste di procura ricevute nel caso in cui sia attivo il profilo persona fisica.
+.. figure:: /media/voce_richiesta_procura.png
+   :align: center
+   :name: voce-procura-rapplegale
+   :alt: Voce richiesta procura
 
-Il rappresentante legale, dal suo profilo persona fisica, potrà da questa lista accettare o rifiutare le richieste di procura ricevute.
+Il legale rappresentante, verificata la correttezza dell'istanza, potrà sottoscrivere o rifiutare la richiesta di procura. Una volta sottoscritta la procura, l'istanza è automaticamente trasmessa al Corecom competente. Le istanze la cui procura è stata rifiutata verranno rimosse dal sistema.
